@@ -45,7 +45,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Test -- currently none funcional
 
 ```bash
 # unit tests
